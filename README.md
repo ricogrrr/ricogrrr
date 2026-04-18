@@ -1,32 +1,35 @@
-# 👨‍💻 Rico | Software Developer
+# Rico
 
-## About Me
-Hello world! I'm Rico, a passionate developer exploring the endless possibilities of web development. 
+Software Developer · Discord Bot Creator · Minecraft Plugin Dev
 
-## 🚀 Tech Journey
-- 💻 Currently mastering **PHP** and building dynamic web applications
-- 🧠 Always hungry to learn new technologies and development practices
-- 🔭 Constantly working on improving my problem-solving skills
+## What I Do
 
-## 🛠️ Tech Stack
-```
-- Languages: PHP, Python, JavaScript, HTML, CSS
-- Frameworks: React.js, Pandas
-- Tools: Visual Studio Code, Visual Studio 2022, Git
-- Database: MySQL
-```
+I build stuff that works. Mostly backend systems, automation tools, and anything that makes life easier for users.
 
-## 🤝 Let's Connect & Collaborate
-I'm interested in collaborating on:
-- Web development projects
-- Python automation tools
-- Interactive frontend applications
-- [Any other specific projects you're interested in]
+**Current focus:** Full-stack web apps, APIs, and Discord bots.
+
+## Tech Stack
+
+**Languages:** Python · JavaScript/TypeScript · Lua · PHP  
+**Backend:** Node.js · Express  
+**Frontend:** React · HTML/CSS  
+**Tools:** Git · VS Code · ngrok  
+**Databases:** MySQL
+
+## Projects I Take On
+
+- Discord bots — moderation, automation, game integrations
+- Minecraft plugins — custom mechanics, server tools
+- Web apps & APIs — full-stack builds, REST endpoints
+- Desktop/mobile apps — Python-based tools, cross-platform solutions
+
+## Let's Work Together
+
+Open to collaborating on:
+- Bot ecosystems or game server tooling
+- API design and backend architecture
+- Anything weird or technically interesting
 
 ---
 
-> "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else." — Eagleson's Law
-
-<!---
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi!
---->
+&gt; "Code you wrote 6 months ago was written by a stranger." — Eagleson's Law
