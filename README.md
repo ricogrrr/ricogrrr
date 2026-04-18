@@ -30,6 +30,4 @@ Open to collaborating on:
 - API design and backend architecture
 - Anything weird or technically interesting
 
----
 
-&gt; "Code you wrote 6 months ago was written by a stranger." — Eagleson's Law
