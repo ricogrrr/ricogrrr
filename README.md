@@ -2,9 +2,9 @@
 
 # Rico
 
-### Software Developer · Discord Bot Creator · Minecraft Plugin Dev
+### Full-Stack Developer · Backend Engineer · Discord Bot Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Backend+Developer;Discord+Bot+Creator;Minecraft+Plugin+Developer;Building+cool+stuff+that+works" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Systems;Discord+Bot+Development;APIs+%26+Automation;Building+Stuff+That+Works" />
 
 <br/>
 
@@ -16,71 +16,73 @@
 
 # 💫 About Me
 
-I build stuff that works.
+I'm a full-stack developer focused on backend systems, APIs, automation, and scalable applications.
 
-Mostly backend systems, automation tools, APIs, and user-focused tooling.
-
-Current focus:
-- Full-stack web apps
-- API architecture
+I build:
 - Discord bots
-- Cross-platform tooling
+- Full-stack web apps
+- Backend infrastructure
+- Payment integrations
+- Automation systems
+- Developer tooling
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Languages
 
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,lua,php" />
-</p>
-
-## Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
-</p>
-
-## Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,vscode,ngrok" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,lua,ts" />
 </p>
 
 ---
 
-# ⚡ GitHub Stats
+# ⚙️ Frameworks, Backend & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,vue,vercel,supabase" />
+</p>
+
+---
+
+# 💳 Payment Integrations
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Paddle-2D2D2D?style=for-the-badge&logo=paddle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
-
----
-
-# 🛠️ Projects I Take On
-
-### 🤖 Discord Bots
-Moderation systems, automation, game integrations, slash commands, scalable bot infrastructure.
-
-### ⛏️ Minecraft Plugins
-Custom mechanics, server utilities, gameplay systems, admin tooling.
-
-### 🌐 Web Apps & APIs
-REST APIs, backend services, full-stack applications, automation dashboards.
-
-### 💻 Desktop & Mobile Apps
-Python-based tooling and cross-platform solutions.
 
 ---
 
@@ -92,19 +94,8 @@ Python-based tooling and cross-platform solutions.
 
 ---
 
-# 🤝 Let's Work Together
-
-Open to collaborating on:
-- Bot ecosystems
-- Game server tooling
-- Backend architecture
-- APIs
-- Weird technical ideas
-
----
-
 <div align="center">
 
-### Thanks for visiting 👋
+### Building cool stuff, one project at a time.
 
 </div>
