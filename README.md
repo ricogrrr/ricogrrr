@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=5865F2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ricogrrr&label=Profile+Views&color=5865F2&style=for-the-badge" />
 
 </div>
 
@@ -70,9 +70,9 @@ I build:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricogrrr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://streak-stats.demolab.com?user=ricogrrr&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -80,7 +80,7 @@ I build:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricogrrr&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -89,7 +89,7 @@ I build:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ricogrrr/ricogrrr/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
