@@ -31,7 +31,7 @@ I build:
 # 🚀 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,lua,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,lua" />
 </p>
 
 ---
@@ -70,9 +70,9 @@ I build:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricogrrr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricogrrr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=ricogrrr&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ricogrrr&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -80,7 +80,7 @@ I build:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricogrrr&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricogrrr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
